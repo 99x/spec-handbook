@@ -9,8 +9,8 @@ Refactoring and standardization (generalization) needs are identified (preferabl
 
 #### Tools
 - GitHub
-- Codacy
-- Trello
+- [Codacy](https://www.codacy.com/)
+- [Trello](https://trello.com/)
 
 #### How?
 - GitHub is linked with Trello (via powerups) and Codacy
