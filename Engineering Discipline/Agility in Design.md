@@ -1,0 +1,29 @@
+Agility in Design
+=================
+
+## AD.1.1 (Project)
+
+Refactoring and standardization (generalization) needs are identified (preferably through automation). A backlog for managing technical debt is maintained by the team.
+
+### Implementation - 01
+
+#### Tools
+- GitHub
+- Codacy
+- Trello
+
+#### How?
+- GitHub is linked with Trello (via powerups) and Codacy
+- Each Trello task has a corresponding GitHub issue linked via Issue Id
+- Each PR is linked with GitHub Issue Id 
+- Codacy code quality analysis is run on every PR submission
+- Codacy will comment refactoring suggessions below the PR automatically 
+
+#### Tips
+- Disable PR merging unless code automated quality test is passed
+- Disable PR merging unless manual review is approved
+- Select a suitable set of rules in Codacy code quality settings
+- Track the Trello taks for refactoring with Labels e.g. Technical Task 
+
+#### Challenges
+- Codacy allows only 5 team members in the free tier 
