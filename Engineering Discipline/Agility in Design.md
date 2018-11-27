@@ -20,7 +20,7 @@ Refactoring and standardization (generalization) needs are identified (preferabl
 - Codacy will comment refactoring suggessions below the PR automatically 
 
 #### Tips
-- Disable PR merging unless code automated quality test is passed
+- Disable PR merging unless automated code quality test is passed
 - Disable PR merging unless manual review is approved
 - Select a suitable set of rules in Codacy code quality settings
 - Track the Trello taks for refactoring with Labels e.g. Technical Task 
