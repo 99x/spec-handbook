@@ -1,7 +1,7 @@
 Agility in Design
 =================
 
-## AD.1.1 (Project)
+## AD.1.1
 
 Refactoring and standardization (generalization) needs are identified (preferably through automation). A backlog for managing technical debt is maintained by the team.
 
@@ -9,8 +9,8 @@ Refactoring and standardization (generalization) needs are identified (preferabl
 
 #### Tools
 - GitHub
-- [Codacy](https://www.codacy.com/)
-- [Trello](https://trello.com/)
+- [AWS Code Build](https://aws.amazon.com/codebuild/)
+- [AWS Code Pipeline](https://aws.amazon.com/codepipeline/)
 
 #### How?
 - GitHub is linked with Trello (via powerups) and Codacy
