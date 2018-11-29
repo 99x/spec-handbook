@@ -29,4 +29,4 @@ Following implementation is applicable to the projects that use GIT as the versi
 - Track the Trello taks for refactoring with Labels e.g. Technical Task 
 
 #### Challenges
-- Codacy allows only 5 team members in the free tier 
+- Codacy allows only 4 team members in the free tier 
