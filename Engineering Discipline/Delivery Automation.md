@@ -9,8 +9,8 @@ Any code change may trigger a build, and any successful build can be deployed to
 
 #### Tools
 - GitHub
-- [Codacy](https://www.codacy.com/)
-- [Trello](https://trello.com/)
+- [AWS Code Build](https://aws.amazon.com/codebuild/)
+- [AWS Code Pipeline](https://aws.amazon.com/codepipeline/)
 
 #### How?
 - Create Code Build projects for frontend and backend projects
