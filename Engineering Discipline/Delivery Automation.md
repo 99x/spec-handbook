@@ -7,6 +7,9 @@ Any code change may trigger a build, and any successful build can be deployed to
 
 ### Implementation - 01
 
+#### Scope
+Following implementation is applicable for the projects that uses AWS to manage their CI/CD pipeline.
+
 #### Tools
 - GitHub
 - [AWS Code Build](https://aws.amazon.com/codebuild/)

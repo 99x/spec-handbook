@@ -7,6 +7,9 @@ Refactoring and standardization (generalization) needs are identified (preferabl
 
 ### Implementation - 01
 
+#### Scope
+Following implementation is applicable to the projects that use GIT as the version control system. 
+
 #### Tools
 - GitHub
 - [Codacy](https://www.codacy.com/)
