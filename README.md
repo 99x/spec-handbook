@@ -1,5 +1,5 @@
 # SPEC Handbook
-Curated list of quality standards and opinionated implementation guide for software products
+Curated list of quality standards and opinionated implementation guide for market winning software products
 
 ### A) Engineering Discipline
 
