@@ -8,7 +8,7 @@ Any code change may trigger a build, and any successful build can be deployed to
 ## Implementation Suggessions
 - [Implementation 01](#implementation---01)
 
-### Implementation - 01
+## Implementation - 01
 
 #### Scope
 Following implementation is applicable for the projects that uses AWS to manage their CI/CD pipeline.

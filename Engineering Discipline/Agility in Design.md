@@ -8,7 +8,7 @@ Refactoring and standardization (generalization) needs are identified (preferabl
 ## Implementation Suggessions
 - [Implementation 01](#implementation---01)
 
-### Implementation - 01
+## Implementation - 01
 
 #### Scope
 Following implementation is applicable to the projects that use GIT as the version control system. 

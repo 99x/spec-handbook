@@ -8,7 +8,7 @@ Team is aware of scalability limits of the production system. Average load of th
 ## Implementation Suggessions
 - [Implementation 01](#implementation---01)
 
-### Implementation - 01
+## Implementation - 01
 
 #### Scope
 Following implementation is applicable for the projects that has containerized workload or serverless microservices maintained in AWS. 
