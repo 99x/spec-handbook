@@ -6,7 +6,7 @@ Agility in Design
 Refactoring and standardization (generalization) needs are identified (preferably through automation). A backlog for managing technical debt is maintained by the team.
 
 ### Implementation Suggessions
-- [Implementation 01](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation.md#implementation---01)
+- [Implementation 01](#implementation---01)
 
 ### Implementation - 01
 
