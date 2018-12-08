@@ -6,7 +6,7 @@ Delivery Automation
 Any code change may trigger a build, and any successful build can be deployed to staging automatically.
 
 ### Implementation Suggessions
-- [Implementation 01](##implementation---01)
+- [Implementation 01](#implementation---01)
 
 ### Implementation - 01
 
