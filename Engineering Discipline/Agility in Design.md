@@ -14,7 +14,7 @@ Refactoring and standardization (generalization) needs are identified (preferabl
 Following implementation is applicable to the projects that use GIT as the version control system. 
 
 ### Tools
-- GitHub
+- [GitHub](https://github.com)
 - [Codacy](https://www.codacy.com/)
 - [Trello](https://trello.com/)
 

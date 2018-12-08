@@ -14,7 +14,7 @@ Any code change may trigger a build, and any successful build can be deployed to
 Following implementation is applicable for the projects that uses AWS to manage their CI/CD pipeline.
 
 ### Tools
-- GitHub
+- [GitHub](https://github.com)
 - [AWS Code Build](https://aws.amazon.com/codebuild/)
 - [AWS Code Pipeline](https://aws.amazon.com/codepipeline/)
 
@@ -36,3 +36,8 @@ Following implementation is applicable for the projects that uses AWS to manage 
 ### Challenges
 - Rollbacks are not yet directly supported as part of CodePipeline
 - We need to use CodeDeploy project to configure rollbacks with the pipeline
+
+
+## Guideline  [02]
+
+Acceptance test results, release notes and audit trails are automatically generated.

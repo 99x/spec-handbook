@@ -30,3 +30,15 @@ Following implementation is applicable for the projects that has containerized w
 - Use X-Ray service map to see the graphical representation of entire life cycle of a request
 - Measure the latency for all the connected parts of your application with AWS X-Ray and identify the bottelnecks 
 - The first 100,000 traces recorded each month are free
+
+
+## Guideline [02]
+
+Periodic security assessments are scheduled and practiced on the production/staging environment. Actions are taken on the vulnerabilities found.
+
+
+## Guideline [03]
+
+Critical components of the production system are covered with health monitoring techniques. Notifications are raised upon anomalies.	
+
+
