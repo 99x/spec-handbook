@@ -1,7 +1,7 @@
 Product Stability
 ===================
 
-## PS.2.1
+## Guideline [01]
 
 Team is aware of scalability limits of the production system. Average load of the production environment is being monitored continuously.
 

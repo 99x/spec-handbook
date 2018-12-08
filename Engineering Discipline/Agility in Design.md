@@ -1,7 +1,7 @@
 Agility in Design
 =================
 
-## AD.1.1
+## Guideline [01]
 
 Refactoring and standardization (generalization) needs are identified (preferably through automation). A backlog for managing technical debt is maintained by the team.
 

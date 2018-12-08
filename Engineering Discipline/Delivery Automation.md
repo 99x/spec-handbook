@@ -1,7 +1,7 @@
 Delivery Automation
 ===================
 
-## DA.1.1 
+## Guideline  [01]
 
 Any code change may trigger a build, and any successful build can be deployed to staging automatically.
 
