@@ -5,31 +5,9 @@ User Engagement
 
 All major prototypes (wireframes) and peer tested preferably by team members, members from other teams, etc.
 
-## Implementation Suggessions
-- [Implementation 01](#implementation---01)
-
-## Implementation - 01
-
-### Scope 
-- N/A
-
-### Tools
-- [invision](https://www.invisionapp.com)
-
-### How?
-- Create an account in invision and invite the team members
-- After creating an account, team members can collaboratively build and validate prototypes.
-
-### Tips
-- N/A
-
-### Challenges
-- Free tier in Invision only offers users 1 prototype to test drive with unlimited screens and collaborators, for an unlimited period of time.
-
 ## Guideline [02]
 
 Performance of the application is statistically analyzed to identify the critical path and actions are taken to maximize the user perception of speed.
-
 
 ## Guideline [03]
 
