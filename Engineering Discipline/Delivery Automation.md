@@ -43,7 +43,7 @@ Following implementation is applicable for the projects that uses AWS to manage 
 Acceptance test results are automatically generated.
 
 ## Implementation Suggessions
-- [Implementation 01](#g01-implementation---01)
+- [Implementation 01](#g02-implementation---01)
 
 ## [G02] Implementation - 01
 
