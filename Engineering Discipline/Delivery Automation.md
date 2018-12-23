@@ -72,3 +72,34 @@ Following implementation is applicable for any project who needs to generate and
 
 ### Challenges
 - Ghost Inspector free tier allows only 100 monthly test runs for and the result retention period is 3 months.
+
+
+## Guideline  [03]
+
+Release notes are automatically generated.
+
+## Implementation Suggessions
+- [Implementation 01](#g03-implementation---01)
+
+## [G03] Implementation - 01
+
+### Scope
+Applicable to projects that uses GitHub as the source control system
+
+### Tools
+- [Gren Robot](https://www.npmjs.com/package/github-release-notes)
+- [AWS Code Pipeline](https://aws.amazon.com/codepipeline/)
+
+### How?
+- Install github-release-notes npm globally
+- You can arrange github issues in milestones (This is just one option)
+- Close issues related to the milestone before the release
+- Do a latest tag release 
+- Attach gren tool to the CI/CD pipeline
+- Once CI/CD is succesful perform gren release that will create a release notes in GitHub
+
+### Tips
+
+
+### Challenges
+
