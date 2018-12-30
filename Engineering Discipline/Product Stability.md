@@ -1,12 +1,6 @@
-Product Stability
-===================
-
-## Guideline [01]
+# Monitor Continuously
 
 Team is aware of scalability limits of the production system. Average load of the production environment is being monitored continuously.
-
-## Implementation Suggessions
-- [Implementation 01](#implementation---01)
 
 ## Implementation - 01
 
@@ -31,13 +25,14 @@ Following implementation is applicable for the projects that has containerized w
 - Measure the latency for all the connected parts of your application with AWS X-Ray and identify the bottelnecks 
 - The first 100,000 traces recorded each month are free
 
-
-## Guideline [02]
+#
+# Periodic Security Assessments 
 
 Periodic security assessments are scheduled and practiced on the production/staging environment. Actions are taken on the vulnerabilities found.
 
 
-## Guideline [03]
+#
+# Anomaly Detection
 
 Critical components of the production system are covered with health monitoring techniques. Notifications are raised upon anomalies.	
 
