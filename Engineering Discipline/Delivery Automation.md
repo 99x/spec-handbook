@@ -1,14 +1,8 @@
-Delivery Automation
-===================
-
-# Guideline  [01]
+# Automate the Build Pipeline
 
 Any code change may trigger a build, and any successful build can be deployed to staging automatically.
 
-## Implementation Suggessions
-- [Implementation 01](#g01-implementation---01)
-
-## [G01] Implementation - 01
+## Implementation - 01
 
 ### Scope
 Following implementation is applicable for the projects that uses AWS to manage their CI/CD pipeline.
@@ -37,15 +31,12 @@ Following implementation is applicable for the projects that uses AWS to manage 
 - Rollbacks are not yet directly supported as part of CodePipeline
 - We need to use CodeDeploy project to configure rollbacks with the pipeline
 
-
-# Guideline  [02]
+##
+# Automate the Acceptance Tests
 
 Acceptance test results are automatically generated.
 
-## Implementation Suggessions
-- [Implementation 01](#g02-implementation---01)
-
-## [G02] Implementation - 01
+## Implementation - 01
 
 ### Scope
 Following implementation is applicable for any project who needs to generate and run Accpetance tests automatically. [Optional] If you are using AWS CodePipeline, accpetance tests can be run upon every successful release pipeline.
@@ -73,14 +64,12 @@ Following implementation is applicable for any project who needs to generate and
 ### Challenges
 - Ghost Inspector free tier allows only 100 monthly test runs for and the result retention period is 3 months.
 
-# Guideline  [03]
+##
+# Automate Release Notes Generation
 
 Release notes are automatically generated.
 
-## Implementation Suggessions
-- [Implementation 01](#g03-implementation---01)
-
-## [G03] Implementation - 01
+## Implementation - 01
 
 ### Scope
 Applicable to projects that uses GitHub as the source control system
