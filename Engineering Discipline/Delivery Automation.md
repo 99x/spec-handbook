@@ -1,7 +1,7 @@
 Delivery Automation
 ===================
 
-## Guideline  [01]
+# Guideline  [01]
 
 Any code change may trigger a build, and any successful build can be deployed to staging automatically.
 
@@ -37,8 +37,8 @@ Following implementation is applicable for the projects that uses AWS to manage 
 - Rollbacks are not yet directly supported as part of CodePipeline
 - We need to use CodeDeploy project to configure rollbacks with the pipeline
 
-## 
-## Guideline  [02]
+
+# Guideline  [02]
 
 Acceptance test results are automatically generated.
 
@@ -73,8 +73,7 @@ Following implementation is applicable for any project who needs to generate and
 ### Challenges
 - Ghost Inspector free tier allows only 100 monthly test runs for and the result retention period is 3 months.
 
-##
-## Guideline  [03]
+# Guideline  [03]
 
 Release notes are automatically generated.
 
