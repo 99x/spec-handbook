@@ -1,12 +1,6 @@
-Hypothesis Invalidation
-=======================
-
-## Guideline [01] 
+# Use a Prototyping Tool
 
 Team is equipped with a wireframing/prototyping tool. Prototypes can be shared, modified and discussed easily in a group context (preferably including end users).
-
-## Implementation Suggessions
-- [Implementation 01](#implementation---01)
 
 ## Implementation - 01
 
@@ -28,12 +22,10 @@ in-app communication (chat/comments) to get better feedback
 ### Challenges
 - Free tier in Invision only offers users 1 prototype to test drive with unlimited screens and collaborators, for an unlimited period of time.
 
-## Guideline [02]
+#
+# Measure Feature Usage
 
 Important features will be accompanied with the expected usage estimations. Methods for measuring feature usage/effectiveness are a part of the feature spec itself.
-
-## Implementation Suggessions
-- [Implementation 01](#implementation---01)
 
 ## Implementation - 01
 
@@ -70,12 +62,10 @@ https://help.hotjar.com/hc/en-us/articles/115011805428-Hotjar-on-Single-Page-App
 for more information : https://www.hotjar.com/pricing
 
 
-## Guideline [03]
+#
+# Measure User Preferences
 
 Team is able to perform split tests, feature fakes, etc. to gain better insight in to real user preferences through statistical means. 
-
-## Implementation Suggessions
-- [Implementation 01](#implementation---01)
 
 ## Implementation - 01
 
