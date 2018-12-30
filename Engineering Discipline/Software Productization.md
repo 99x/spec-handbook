@@ -17,4 +17,3 @@ Strategy for multi-tenancy is clearly identified and necessary isolation means a
 # API Versioning and Maintenance
 
 Service APIs are versioned and strategy is in place for maintaining the service API.
-
