@@ -1,4 +1,4 @@
-# New Features are Automated as a Regression Test Suite
+# New features are automated as a regression test suite
 
 Acceptance tests for new features are automated and maintained as a regression test suite. Coverage levels are incrementing over time.
 
@@ -39,6 +39,6 @@ for more information : https://ghostinspector.com/pricing/
 
 
 #
-# Integrate a Central Code Quality Analysis Tool 
+# Integrate a central code quality analysis Tool 
 
 Central code quality analysis tool is integrated to monitor continuously. Overall quality indicators follow upward trend during current quarter.
