@@ -1,12 +1,6 @@
-Agility in Design
-=================
+# Continuous Refactoring
 
-## Guideline [01]
-
-Refactoring and standardization (generalization) needs are identified (preferably through automation). A backlog for managing technical debt is maintained by the team.
-
-## Implementation Suggessions
-- [Implementation 01](#implementation---01)
+Refactoring needs are identified through automation. A backlog for managing technical debt is maintained by the team.
 
 ## Implementation - 01
 
