@@ -3,7 +3,7 @@
 Look and feel (theming) of the product is cleanly decoupled from the structure of the user interface and can be configured as needed.
 
 #
-## B2B, B2C Integration
+# B2B, B2C Integration
 	
 Product is capable of exposing services for integration. API layer is clearly identified and exposed business entities are modeled according to the best practices.
 
