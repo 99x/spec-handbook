@@ -37,7 +37,7 @@ Following implementation is applicable for the projects that uses AWS to manage 
 - Rollbacks are not yet directly supported as part of CodePipeline
 - We need to use CodeDeploy project to configure rollbacks with the pipeline
 
-
+## 
 ## Guideline  [02]
 
 Acceptance test results are automatically generated.
@@ -73,7 +73,7 @@ Following implementation is applicable for any project who needs to generate and
 ### Challenges
 - Ghost Inspector free tier allows only 100 monthly test runs for and the result retention period is 3 months.
 
-
+##
 ## Guideline  [03]
 
 Release notes are automatically generated.
@@ -99,7 +99,9 @@ Applicable to projects that uses GitHub as the source control system
 - Once CI/CD is succesful perform gren release that will create a release notes in GitHub
 
 ### Tips
-
+- Arranging tasks in milestones will give more clarity for release notes output
+- Attach labels for each type of task E.g Feature, Bug Fix, Technical Task to obtain category wise separation in the release note
 
 ### Challenges
+- No major challenges other than plug the release note generator to the build pipeline
 
