@@ -3,15 +3,7 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 # Guidelines
 
-- [Continuous Refactoring](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Agility%20in%20Design.md#continuous-refactoring)
-- [Delivery Automation](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation.md)
-- [Product Stability](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability.md)
-- [Software Productization](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization.md)
-- [Visible Quality](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality.md)
+- [Do Continuous Refactoring](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Agility%20in%20Design.md#continuous-refactoring)
 
-## Business Focus
+- [Automate the Build Pipeline](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation.md#automate-the-build-pipeline)
 
-- [Hypothesis Invalidation](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation.md)
-- [Operational Analytics](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Operational%20Analytics.md)
-- [Persona Awareness](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Persona%20Awareness.md)
-- [User Experience](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/User%20Experience.md)
