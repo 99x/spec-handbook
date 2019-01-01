@@ -1,4 +1,4 @@
-# SPEC Handbook
+# Software Product Engineering Continuity(SPEC) Handbook
 Curated list of quality standards and opinionated implementation guide for market winning software products
 
 # Guidelines
