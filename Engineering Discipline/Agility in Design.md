@@ -25,5 +25,8 @@ Following implementation is applicable to the projects that use GIT as the versi
 - Select a suitable set of rules in Codacy code quality settings
 - Track the Trello taks for refactoring with Labels e.g. Technical Task 
 
+### Result
+![codacity](https://user-images.githubusercontent.com/2338919/50731236-8dde7600-1185-11e9-9e90-f59e456835b1.png)
+
 ### Challenges
 - Codacy allows only 4 team members in the free tier 
