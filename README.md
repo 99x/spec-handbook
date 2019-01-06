@@ -27,17 +27,15 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 - [Automate New Features As A Regression Test Suite](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality/Regression%20Test%20Automation.md#new-features-are-automated-as-a-regression-test-suite)
 
-- [Have a Central Code Quality Analysis Tool](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality.md#integrate-a-central-code-quality-analysis-tool)
+- [Have a Central Code Quality Analysis Tool](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality/Central%20Code%20Quality.md#analyze-code-quality-automatically)
 
-- [Use a Prototyping Tool](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation.md#use-a-prototyping-tool)
+- [Use a Prototyping Tool](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation/Prototyping%20Tool.md#use-a-prototyping-tool)
 
-- [Measure Feature Usage](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation.md#measure-feature-usage)
+- [Measure Feature Usage](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation/Measure%20Feature%20Usage.md#measure-feature-usage)
 
-- [Measure User Preferences](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation.md#measure-user-preferences)
+- [Measure User Preferences](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation/Measure%20User%20Preference.md#measure-user-preferences)
 
-- [Identify Product's Personas](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Persona%20Awareness.md#identify-personas)
+- [Identify Product's Personas](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Persona%20Awareness/Identify%20Personas.md#identify-personas)
 
-- [Allow B2B, B2C Integration(If Applicable)](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization.md#b2b-b2c-integration)
-
-- [Continuously Analyze Application Performance](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/User%20Experience.md#analyze-the-application-performance)
+- [Continuously Analyze Application Performance](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/User%20Experience/Analyze%20Performance.md#analyze-the-application-performance)
 
