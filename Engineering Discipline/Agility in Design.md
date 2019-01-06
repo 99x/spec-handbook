@@ -1,8 +1,8 @@
 # Continuous Refactoring
 
 Refactoring needs are identified through automation. A backlog for managing technical debt is maintained by the team.
-
-## Implementation - 01
+#
+# Implementation - 01
 
 ### Scope
 Following implementation is applicable to the projects that use GIT as the version control system. 
