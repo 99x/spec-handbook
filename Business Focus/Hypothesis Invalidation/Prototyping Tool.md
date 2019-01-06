@@ -4,9 +4,6 @@ Team is equipped with a wireframing/prototyping tool. Prototypes can be shared, 
 
 ## Implementation - 01
 
-### Scope 
-- N/A
-
 ### Tools
 - [invision](https://www.invisionapp.com)
 
@@ -16,8 +13,8 @@ Team is equipped with a wireframing/prototyping tool. Prototypes can be shared, 
 - Created prototypes can be validated from peers / users and also invision supports 
 in-app communication (chat/comments) to get better feedback
 
-### Tips
-- N/A
+### Result 
+![create-new-prototype](https://user-images.githubusercontent.com/2338919/50735199-dec78c00-11d0-11e9-8ac8-378944fce633.gif)
 
 ### Challenges
 - Free tier in Invision only offers users 1 prototype to test drive with unlimited screens and collaborators, for an unlimited period of time.
