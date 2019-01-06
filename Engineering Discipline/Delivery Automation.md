@@ -1,8 +1,8 @@
 # Automate the Build Pipeline
 
 Any code change may trigger a build, and any successful build can be deployed to staging automatically.
-
-## Implementation - 01
+#
+# Implementation - 01
 
 ### Scope
 Following implementation is applicable for the projects that uses AWS to manage their CI/CD pipeline.
