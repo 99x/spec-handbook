@@ -25,7 +25,7 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 - [Enable API Versioning](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization/API%20Versioning.md#api-versioning-and-maintenance)
 
-- [Automate New Features As A Regression Test Suite](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality.md#new-features-are-automated-as-a-regression-test-suite)
+- [Automate New Features As A Regression Test Suite](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality/Regression%20Test%20Automation.md#new-features-are-automated-as-a-regression-test-suite)
 
 - [Have a Central Code Quality Analysis Tool](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality.md#integrate-a-central-code-quality-analysis-tool)
 
