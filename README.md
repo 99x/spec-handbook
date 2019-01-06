@@ -3,27 +3,27 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 # Guidelines
 
-- [Do Continuous Refactoring](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Agility%20in%20Design.md#continuous-refactoring)
+- [Do Continuous Refactoring](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Agility%20in%20Design/Continuous%20Refactoring.md#continuous-refactoring)
 
-- [Automate the Build Pipeline](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation.md#automate-the-build-pipeline)
+- [Automate the Build Pipeline](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation/Buid%20Pipeline%20Automation.md#build-pipeline-automation)
 
-- [Automate the Acceptance Tests](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation.md#automate-the-acceptance-tests)
+- [Automate the Acceptance Tests](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation/Acceptance%20Tests%20Automation.md#automate-the-acceptance-tests)
 
-- [Automate Release Notes Generation](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation.md#automate-release-notes-generation)
+- [Automate Release Notes Generation](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation/Release%20Notes%20Automation.md#automate-release-notes-generation)
 
-- [Monitor the Production Environment Continuously](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability.md#monitor-continuously)
+- [Monitor the Production Environment Continuously](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Continuous%20Monitoring.md#monitor-continuously)
 
-- [Perform Periodic Security Assessments](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability.md#periodic-security-assessments)
+- [Perform Periodic Security Assessments](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Periodic%20Security%20Assessments.md#periodic-security-assessments)
 
-- [Activate Anomaly Detection](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability.md#anomaly-detection)
+- [Activate Anomaly Detection](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Anomaly%20Detection.md#anomaly-detection)
 
-- [Decouple Styles and Themes](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization.md#decouple-styles-and-themes)
+- [Decouple Styles and Themes](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization/Decouple%20Styles%20and%20Themes.md#decouple-styles-and-themes)
 
-- [Allow B2B, B2C Integration(If Applicable)](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization.md#b2b-b2c-integration)
+- [Allow B2B, B2C Integration(If Applicable)](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization/Integration.md#b2b-b2c-integration)
 
-- [Have a Solid Multi-Tenant Design(If Applicable)](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization.md#solid-multi-tenant-design-if-applicable)
+- [Have a Solid Multi-Tenant Design(If Applicable)](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization/Multi-Tenant%20Design.md#solid-multi-tenant-design-if-applicable)
 
-- [Enable API Versioning](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization.md#api-versioning-and-maintenance)
+- [Enable API Versioning](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization/API%20Versioning.md#api-versioning-and-maintenance)
 
 - [Automate New Features As A Regression Test Suite](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality.md#new-features-are-automated-as-a-regression-test-suite)
 
