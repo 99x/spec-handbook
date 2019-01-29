@@ -20,3 +20,6 @@ Following implementation will check if the web application is up and running. It
 ### Tips
 - Free tier contains most of the commonly used functionality
 - Free tier supports upto 5mins check intervals. 
+
+### Result
+![UptimeRoboto Dashboard](https://user-images.githubusercontent.com/2338919/51892515-27392a80-23c8-11e9-8c66-f416558c4cb9.jpg)
