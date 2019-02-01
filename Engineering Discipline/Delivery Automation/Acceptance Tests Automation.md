@@ -30,3 +30,6 @@ Following implementation is applicable for any project who needs to generate and
 
 ### Challenges
 - Ghost Inspector free tier allows only 100 monthly test runs for and the result retention period is 3 months.
+
+### Example
+<img width="1646" alt="screen shot 2019-02-01 at 11 10 31 am" src="https://user-images.githubusercontent.com/2338919/52104749-049a5200-2612-11e9-890b-741c13e311cc.png">
