@@ -36,3 +36,7 @@ https://help.hotjar.com/hc/en-us/articles/115011805428-Hotjar-on-Single-Page-App
     only 3 funnels are allowed
     only 3 heatmaps are allowed
 for more information : https://www.hotjar.com/pricing
+
+### Example
+<img width="864" alt="screen shot 2019-02-01 at 5 45 10 pm" src="https://user-images.githubusercontent.com/2338919/52122478-282cbf00-2649-11e9-9adb-fdf51aa157a4.png">
+
