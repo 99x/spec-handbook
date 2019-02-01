@@ -30,3 +30,6 @@ Following implementation is applicable for the projects that uses AWS to manage 
 ### Challenges
 - Rollbacks are not yet directly supported as part of CodePipeline
 - We need to use CodeDeploy project to configure rollbacks with the pipeline
+
+### Example
+<img width="1390" alt="screen shot 2019-02-01 at 11 05 40 am" src="https://user-images.githubusercontent.com/2338919/52104623-71f9b300-2611-11e9-9988-43e8b3da8c1a.png">
