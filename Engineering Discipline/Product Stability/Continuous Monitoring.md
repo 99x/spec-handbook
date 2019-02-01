@@ -24,3 +24,6 @@ Following implementation is applicable for the projects that has containerized w
 - Use X-Ray service map to see the graphical representation of entire life cycle of a request
 - Measure the latency for all the connected parts of your application with AWS X-Ray and identify the bottelnecks 
 - The first 100,000 traces recorded each month are free
+
+### Example
+![xray](https://user-images.githubusercontent.com/2338919/52122232-43e39580-2648-11e9-9ffd-48721947878f.png)
