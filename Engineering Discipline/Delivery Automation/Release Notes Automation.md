@@ -27,3 +27,6 @@ Applicable to projects that uses GitHub as the source control system
 ### Challenges
 - No major challenges other than plug the release note generator to the build pipeline
 
+### Example
+<img width="1176" alt="screen shot 2019-02-01 at 11 14 25 am" src="https://user-images.githubusercontent.com/2338919/52104915-930ed380-2612-11e9-832b-5d92f21f6909.png">
+
