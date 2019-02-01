@@ -26,4 +26,5 @@ Following implementation is applicable for the projects that has containerized w
 - The first 100,000 traces recorded each month are free
 
 ### Example
-![xray](https://user-images.githubusercontent.com/2338919/52122232-43e39580-2648-11e9-9ffd-48721947878f.png)
+<img width="788" alt="screen shot 2019-02-01 at 5 41 57 pm" src="https://user-images.githubusercontent.com/2338919/52122365-c10f0a80-2648-11e9-8e1a-96c493196088.png">
+
