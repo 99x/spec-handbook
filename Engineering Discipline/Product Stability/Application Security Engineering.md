@@ -1,16 +1,17 @@
-#Application Security Engineering 
+# Application Security Engineering
+
 This document describes application security engineering best practices and guidelines that can be integrated into the software development project to improve the security posture of software products.
 
-##Threat Modeling 
-
-Threat modeling is an approach for analyzing the security threats of an application. It is a structured approach that enables you to identify, quantify, and address the security risks associated with an application. 
+## Threat Modeling 
+Threat modeling is an approach for analyzing the security threats of an application. It is a structured approach that enables you to identify, quantify, and address the security risks associated with an application.
+<p align="center">
 <img width="263" alt="threat modeling" src="https://user-images.githubusercontent.com/5235310/53144255-8d792d80-35c1-11e9-97a1-d991bdd8c59f.png">
-
+</p>
 
 The following example shows a threat modeling of user login page.
-
+<p align="center">
 <img width="387" alt="example threat model" src="https://user-images.githubusercontent.com/5235310/53144086-d11f6780-35c0-11e9-8894-fe21199b08ff.png">
-
+</p>
 Source: OWASP
 
 Let's create a threat model based on a case study. Consider the following case.
