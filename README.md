@@ -15,7 +15,7 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 # Security Guidelines
 
-- [Threat Modeling](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Application%20Security%20Engineering.md)
+- [Perform Threat Modeling](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Application%20Security%20Engineering.md)
 
 - [Activate Anomaly Detection](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Anomaly%20Detection.md#anomaly-detection)
 
