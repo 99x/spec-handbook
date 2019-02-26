@@ -1,7 +1,7 @@
 # Software Product Engineering Continuity(SPEC) Handbook
 Curated list of quality standards and opinionated implementation guide for market winning software products
 
-# DevOps Guidelines
+## DevOps Guidelines
 
 - [Automate the Build Pipeline](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Delivery%20Automation/Buid%20Pipeline%20Automation.md#build-pipeline-automation)
 
@@ -13,13 +13,13 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 - [Monitor the Production Environment Continuously](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Continuous%20Monitoring.md#monitor-continuously)
 
-# Security Guidelines
+## Security Guidelines
 
 - [Perform Threat Modeling](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Application%20Security%20Engineering.md)
 
 - [Activate Anomaly Detection](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Anomaly%20Detection.md#anomaly-detection)
 
-# UX Guidelines
+## UX Guidelines
 
 - [Use a Prototyping Tool](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Hypothesis%20Invalidation/Prototyping%20Tool.md#use-a-prototyping-tool)
 
@@ -30,7 +30,7 @@ Curated list of quality standards and opinionated implementation guide for marke
 - [Identify Product's Personas](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/Persona%20Awareness/Identify%20Personas.md#identify-personas)
 
 
-# QA Guidelines
+## QA Guidelines
 
 - [Automate New Features As A Regression Test Suite](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Visible%20Quality/Regression%20Test%20Automation.md#new-features-are-automated-as-a-regression-test-suite)
 
@@ -38,7 +38,7 @@ Curated list of quality standards and opinionated implementation guide for marke
 
 - [Continuously Analyze Application Performance](https://github.com/99xt/spec-handbook/blob/master/Business%20Focus/User%20Experience/Analyze%20Performance.md#analyze-the-application-performance)
 
-# Architecture Guidelines
+## Architecture Guidelines
 
 - [Allow B2B, B2C Integration(If Applicable)](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Software%20Productization/Integration.md#b2b-b2c-integration)
 
