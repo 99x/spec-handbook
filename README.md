@@ -14,7 +14,8 @@ Curated list of quality standards and opinionated implementation guide for marke
 - [Monitor the Production Environment Continuously](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Continuous%20Monitoring.md#monitor-continuously)
 
 # Security Guidelines
-- [Perform Periodic Security Assessments](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Periodic%20Security%20Assessments.md#periodic-security-assessments)
+
+- [Threat Modeling](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Application%20Security%20Engineering.md)
 
 - [Activate Anomaly Detection](https://github.com/99xt/spec-handbook/blob/master/Engineering%20Discipline/Product%20Stability/Anomaly%20Detection.md#anomaly-detection)
 
